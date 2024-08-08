@@ -1,4 +1,4 @@
-# Hi there, I'm Meghana Dhongadi Ashoka! 👋
+# Hi there, I'm Meghana D A! 👋
 
 ## 👀 About Me
 I'm a Data Science enthusiast currently pursuing my MSc in Data Science at the University of Essex. My background is in Electronics and Communication Engineering, and I have hands-on experience as a Senior Analyst at Capgemini, where I specialized in the Supply Chain Management (SCM) domain.
@@ -14,7 +14,7 @@ I'm constantly expanding my skill set in:
 ## 💞️ What I'm Looking to Collaborate On
 I'm eager to collaborate on projects involving:
 - **Machine Learning and Deep Learning**: Model development, optimization, and deployment.
-- **Natural Language Processing (NLP)**: Sentiment analysis, fake news detection, and other text analytics projects.
+- **Natural Language Processing (NLP)**: Sentiment analysis, and other text analytics projects.
 - **Data Visualization**: Creating insightful, interactive visualizations to convey complex data stories.
 
 ## 📫 How to Reach Me
