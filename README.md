@@ -5,10 +5,11 @@ I'm a Data Science enthusiast currently pursuing my MSc in Data Science at the U
 
 ## 🌱 What I'm Learning
 I'm constantly expanding my skill set in:
-- **Machine Learning**: Reinforcement Learning, Applied Regression, Experimental Data Analysis
+- **Programming**: Python, R, SQL
+- **Machine Learning**: Statistics, Reinforcement Learning, Applied Regression, Experimental Data Analysis
 - **Deep Learning**: TensorFlow, PyTorch, Keras
 - **NLP**: Scikit-learn, NLTK
-- **Data Visualization**: Matplotlib, Seaborn, Plotly
+- **Data Visualization**: Power BI, Google Colab (Matplotlib, Seaborn, Plotly)
 - **Cloud Deployment**: Azure Cloud, GitHub Actions
 
 ## 🙌 What I'm Looking to Collaborate On
