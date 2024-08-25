@@ -11,7 +11,7 @@ I'm constantly expanding my skill set in:
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Cloud Deployment**: Azure Cloud, GitHub Actions
 
-## 💞️ What I'm Looking to Collaborate On
+## 🙌 What I'm Looking to Collaborate On
 I'm eager to collaborate on projects involving:
 - **Machine Learning and Deep Learning**: Model development, optimization, and deployment.
 - **Natural Language Processing (NLP)**: Sentiment analysis, and other text analytics projects.
@@ -21,9 +21,6 @@ I'm eager to collaborate on projects involving:
 - **Email**: meghanada99@gmail.com
 - **LinkedIn**: [linkedin.com/in/meghanada](https://www.linkedin.com/in/meghanada/)
 - **GitHub**: [github.com/m3ghanaDA](https://github.com/m3ghanaDA)
-
-## 😄 Pronouns
-She/Her
 
 
 <!---
