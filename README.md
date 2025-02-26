@@ -1,16 +1,15 @@
 # Hi there, I'm Meghana D A! 👋
 
 ## 👀 About Me
-I'm a Data Science enthusiast currently pursuing my MSc in Data Science at the University of Essex. My background is in Electronics and Communication Engineering, and I have hands-on experience as a Senior Analyst at Capgemini, where I specialized in the Supply Chain Management (SCM) domain.
+A highly analytical and detail-oriented Data Analyst with a Distinction in MSc Data Science from the University of Essex and 2 years of experience in data analysis, business intelligence, and machine learning. Proven ability to optimise data workflows, improve decision-making through insights, and enhance operational efficiency. Currently seeking a Data Scientist/Data Analyst role in the UK, with full right to work.
 
 ## 🌱 What I'm Learning
 I'm constantly expanding my skill set in:
-- **Programming**: Python, R, SQL
-- **Machine Learning**: Statistics, Reinforcement Learning, Applied Regression, Experimental Data Analysis
-- **Deep Learning**: TensorFlow, PyTorch, Keras
-- **NLP**: Scikit-learn, NLTK
-- **Data Visualization**: Power BI, Google Colab (Matplotlib, Seaborn, Plotly)
-- **Cloud Deployment**: Azure Cloud, GitHub Actions
+- **Programming**: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), R, SQL
+- **Data Visualisation**: Power BI, Excel (Pivot Tables, VLOOKUP, Macros), Matplotlib, Seaborn
+- **Machine Learning & NLP**: Data Cleaning, Feature Engineering, Model Building, Sentiment Analysis
+- **Cloud & DevOps**: Microsoft Azure, AWS, Git, GitHub Actions, CI/CD
+- **Soft Skills**: Analytical Thinking, Problem-Solving, Team Collaboration, Communication
 
 ## 🙌 What I'm Looking to Collaborate On
 I'm eager to collaborate on projects involving:
