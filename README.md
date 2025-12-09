@@ -1,11 +1,13 @@
 # Hi there, I'm Meghana D A! 👋
 
 ## 👀 About Me
-I am a MSc Data Science Graduate from the University of Essex, where I am deeply immersed in advanced topics like machine learning, artificial intelligence, and data visualization. My academic journey has fueled my passion for uncovering insights from data and developing innovative solutions to complex problems.
+I’m a Data Scientist with a strong foundation in machine learning, deep learning, and business intelligence, backed by hands-on project experience and a Distinction-graded MSc in Data Science from the University of Essex. I specialize in translating complex data into actionable insights and building scalable, deployed ML solutions that drive real business value.
 
-Before embarking on my postgraduate studies, I gained 2 years of professional experience as a Data Analyst at Capgemini, where I specialized as an Oracle JD Edwards consultant within the Supply Chain Management (SCM) domain. In this role, I supported on successful project implementations, worked alongside integrated systems like SAP and SFDC with JDE, and significantly improved project success rates and system functionalities. My work involved extensive data extraction, analysis, and reporting, which honed my skills in SQL and Excel. I also spearheaded several projects during my academic tenure, including developing machine learning models with statistical analysis and deep learning models with NLP techniques, all of which deepened my expertise in Python, Power BI, and cloud technologies.
+With 2 years of experience as a Senior Analyst at Capgemini, I worked in the Supply Chain domain as a JD Edwards consultant, supporting project implementations, performing detailed analysis using SQL and advanced Excel, creating reports and dashboards for business teams, and contributing to a 20% increase in user satisfaction through effective problem-solving and system enhancements. My background in SQL, Oracle ERP, and advanced Excel has helped me support large-scale implementations with precision and impact.
 
-Looking ahead, I am eager to transition into a Data Scientist or Data Analyst role where I can apply my analytical and programming skills to drive data-driven decision-making and contribute to transformative projects. My goal is to work in a collaborative environment where I can continuously learn and apply cutting-edge techniques to solve real-world challenges.
+I’ve delivered end-to-end data science projects—from predictive modelling and NLP to cloud deployment with AWS & CI/CD. Some highlights include reducing inference time under 1 second for a deep-learning model, boosting retail revenue by 21% using Power BI insights, and achieving 99% accuracy in my master’s dissertation on fake news detection.
+
+I enjoy solving real-world problems using data, building robust ML pipelines, and continuously expanding my skill set across MLOps, cloud platforms, and advanced analytics.
 
 ## 🌱 What I'm Learning
 I'm constantly expanding my skill set in:
